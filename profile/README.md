@@ -12,7 +12,7 @@ It installs as a Supabase auth hook with no code, as a Better Auth hook, or as o
 
 ## Repositories
 
-- [burner-domains](https://github.com/signupbouncer/burner-domains): a disposable email domains list, updated daily, CC0.
+- [burner-domains](https://github.com/signupbouncer/burner-domains): a disposable email domains list, updated daily. Our own entries are CC0; the merged upstream lists keep their licences.
 - [nextjs-saas-starter-signup-protection](https://github.com/signupbouncer/nextjs-saas-starter-signup-protection): block disposable emails and repeat accounts in the Next.js SaaS starter.
 - [nextjs-supabase-ai-image-credits](https://github.com/signupbouncer/nextjs-supabase-ai-image-credits): an AI image generator on Next.js and Supabase whose free credits hold up against disposable and repeat signups.
 
